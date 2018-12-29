@@ -1,1 +1,1 @@
-name = "EmailParser"
+from EmailParser.EmailParser import EmailParser

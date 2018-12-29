@@ -1,8 +1,0 @@
-setup.py
-EmailParser/EmailParser.py
-EmailParser/__init__.py
-EmailParser/datefinder.py
-email_parser.egg-info/PKG-INFO
-email_parser.egg-info/SOURCES.txt
-email_parser.egg-info/dependency_links.txt
-email_parser.egg-info/top_level.txt

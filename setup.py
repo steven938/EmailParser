@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'EmailParser',         
   packages = ['EmailParser'],  
-  version = '0.2',     
+  version = '0.21',     
   license='MIT',       
   description = 'Email for parsing raw email texts',   
   author = 'Steven Chen',                   

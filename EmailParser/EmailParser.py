@@ -9,7 +9,7 @@ Instance Methods: ....
 
 import re
 import talon
-import datefinder
+from EmailParser import datefinder
 
 class EmailParser:
     #  emailHeaders stores regex patterns identifying the beginning of a email header:
